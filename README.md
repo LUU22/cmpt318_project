@@ -27,3 +27,6 @@ Requirement:
 	numpy 		1.13.3	
 	sklearn 	0.17.1
 	
+Usage:
+Run Prepare_data.ipynb first, then process image.ipynb to read the data for training.
+then one can run any of three model files to train, alexnet model-2 is the one with images as input and the other two are without image inputs.
